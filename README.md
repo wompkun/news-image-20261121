@@ -1,6 +1,8 @@
 # The World in One Day — 21 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-news--image--20261121-blue)](https://make.fun/bounty/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/wompkun/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/wompkun/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![Referral](https://img.shields.io/badge/referral-jk303ka9-green)](https://make.fun/bounty/news-image-20261121)
 
 A newspaper front page — **THE WORLD IN ONE DAY / SATURDAY 21 NOVEMBER 2026** — summing up Saturday 21 November 2026 in one image. Six panels cover the day's most consequential stories from across regions and fields:
@@ -8,7 +10,7 @@ A newspaper front page — **THE WORLD IN ONE DAY / SATURDAY 21 NOVEMBER 2026** 
 1. **Iran strikes Bahrain** — the day's major escalation in the Gulf.
 2. **Mexico captures 'El Chapo Isidro'** — a high-profile cartel arrest.
 3. **A missile hits Kryvyi Rih** — the war in Ukraine reaches a Ukrainian city again.
-4. **COP31 talks run past deadline** — climate negotiations in Belém overrun.
+4. **COP31 talks run past deadline** — climate negotiations in Antalya overrun.
 5. **AI stocks plunge** — markets sell off AI shares sharply.
 6. **Dengue hope in Brazil** — a promising turn in the fight against dengue.
 
